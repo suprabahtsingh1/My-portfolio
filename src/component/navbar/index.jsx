@@ -2,7 +2,7 @@ import { useState } from 'react'
 import styles from './style'
 import { navData } from './metaData'
 import logoImg from '../../assets/logo.jpg'
-import ResumeUrl from '../../assets/Suprabhat_software_engineer_resume.pdf'
+import ResumeUrl from '../../assets/Suprabhat_software_engineer_resume1.pdf'
 
 const {
   TopWebContainer,
